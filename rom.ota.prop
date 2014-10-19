@@ -1,0 +1,5 @@
+{
+    "otaid": "<< ROM OTA ID >>",
+    "otaver": "<< ROM Version >>",
+    "otatime": "<< Date/time of ROM in yyyymmdd-hhmm format >>"
+}
